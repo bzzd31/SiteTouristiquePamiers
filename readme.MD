@@ -1,4 +1,4 @@
-SiteTouristiquePamiers
+# SiteTouristiquePamiers
 Site Touristique de la ville de Pamiers dans le cadre du projet de TD MA.
 
 Equipe "Les Appaméens" : BLED Lucas, CARRETIER Clément, MAHAMAT SOUGUI Abakar
